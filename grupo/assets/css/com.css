@@ -272,3 +272,10 @@ tr {
       font-style: italic;
       text-shadow: #000000 0px 1px 0px;
     }
+    .text1 {
+      margin-top: 30px;
+      margin-bottom: 30px;
+      font-size: 28px;
+      font-weight: bold
+    
+    }
